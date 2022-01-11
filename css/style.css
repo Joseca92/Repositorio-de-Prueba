@@ -27,7 +27,7 @@ nav a{
 .titulo{
     text-align: center;
     background: rgb(71, 140, 197);
-    color: white;
+    color: red;
     padding: 85px 0px;
 
 }
@@ -42,7 +42,7 @@ nav a{
 }
     
 #azul{
-    background: blue;
+    background: purple;
     position: relative;
     top: 50px;
     left: 100px;
